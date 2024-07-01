@@ -1,0 +1,14 @@
+dlib
+numpy
+opencv-python
+pandas
+logging
+datetime
+tkinter
+Pillow
+os
+time
+cv2
+image
+imageTk
+shutil
